@@ -19,6 +19,7 @@
   "homepage": "https://github.com/angellugo/bamazon#readme",
   "dependencies": {
     "easy-table": "^1.1.1",
+    "inquirer": "^6.0.0",
     "mysql": "^2.16.0"
   }
 }
