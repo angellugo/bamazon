@@ -42,7 +42,7 @@ You must have the following installed:
 ## How to run the application
 1. Run the application using node with typing the following in bash:
 
-    `node bamazonCostumer.js`
+    `node bamazonCustomer.js`
 
     ![bAmazon](images/How_to_run.gif)
 
