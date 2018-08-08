@@ -21,7 +21,7 @@ You must have the following installed:
     `git clone https://github.com/angellugo/bamazon.git`
 
 
-2. Go inside the wordGuess_CLI folder using the following in bash.
+2. Go inside the bamazon folder using the following in bash.
 
     `cd bamazon`
 
